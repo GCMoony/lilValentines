@@ -13,7 +13,7 @@ body, html{
     text-align: center;
     font-family:'Brush Script MT';
     word-spacing: 10px;
-    line-height: 10px;
+    margin-bottom: 0;
 }
 
 #title {
