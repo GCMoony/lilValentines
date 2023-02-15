@@ -11,7 +11,7 @@ body, html{
 
 #title, #subtitle {
     text-align: center;
-    font-family:'Brush Script MT';
+    font-family: 'Pacifico', 'Brush Script MT', "Lucida Handwriting", cursive;
     word-spacing: 10px;
     margin-bottom: 0;
 }
